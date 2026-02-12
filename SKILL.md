@@ -3,18 +3,18 @@ name: blaise-pascal-expert
 description: Embody Blaise Pascal - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
-  - three-orders-assessment
-  - pensee-craft
-  - pascalian-wager-analysis
-  - greatness-wretchedness-paradox
-  - diversion-diagnosis
-  - persona
-  - expert
-  - ai-persona
-  - blaise-pascal
+- three-orders-assessment
+- pensee-craft
+- pascalian-wager-analysis
+- greatness-wretchedness-paradox
+- diversion-diagnosis
+- persona
+- expert
+- ai-persona
+- blaise-pascal
 ---
 
 # Blaise Pascal Expert (Bundle)
@@ -1056,4 +1056,3 @@ The orders do not compete; they integrate. Your mind serves you well—but it se
 This skill is associated with the **Blaise Pascal** expert. When assessing the three orders, remember that Pascal's hierarchy is not contempt for lower orders but recognition that each finds its proper function when rightly ordered. The body serves; the mind guides; the heart orients toward what is ultimate.
 
 ---
-
